@@ -1,16 +1,35 @@
-# trying
+WerdiApp is a Flutter application that helps you track your daily Azkar & Werd with a simple and elegant interface.
 
-A new Flutter project.
+🚀 How to Run
 
-## Getting Started
+Clone the repository:
 
-This project is a starting point for a Flutter application.
+git clone https://github.com/Ahmedshrfee/WerdiApp.git
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Navigate to the project:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+cd WerdiApp
+
+
+Get the dependencies:
+
+flutter pub get
+
+
+Run the app:
+
+flutter run
+
+✨ Features
+
+Track daily Azkar and Werd.
+
+Clean and simple UI.
+
+Local storage with GetStorage.
+
+Arabic language support.
+
+📸 Screenshots
+<p align="center"> <img src="screenshots/werdiApp.png" width="250"/> </p>
