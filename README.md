@@ -32,4 +32,4 @@ Local storage with GetStorage.
 Arabic language support.
 
 📸 Screenshots
-<p align="center"> <img src="screenshots/werdiApp.png" width="250"/> </p>
+<p align="center"> <img src="screenshots/werdiApp.png" width="1060"/> </p>
